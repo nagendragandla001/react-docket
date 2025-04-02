@@ -9,7 +9,7 @@ This is mainly to showcase my react skills
 1. Create an empty directory
 
 ```
-    mkdir my-react-docket
-    cd my-react-docket
+   > mkdir my-react-docket
+   > cd my-react-docket
 
 ```
